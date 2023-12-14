@@ -2,7 +2,9 @@
   font-family: 'Titillium Web';
   src: url('../fonts/TitilliumWeb-SemiBold.ttf');
 }
-
+#hide-button {
+  margin-top: 10px;
+}
 body::after {
   content: "";
   background: url('../images/Light-Gradient.jpeg');
